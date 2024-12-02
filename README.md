@@ -1,0 +1,3 @@
+This repository is dedicated to my journey of learning the C programming language during my college coursework. It serves as a growing collection of programs and exercises that I am working on to build a strong foundation in C. Currently, the repository contains basic programs, including simple input/output operations, conditional statements, and loops, with more advanced topics like arrays, pointers, and file handling planned for the future. The code here is a work in progress, and I will continuously update it as I explore new concepts and improve my skills.
+
+Feel free to explore the repository, and if you have any feedback or suggestions, I’d be happy to hear them
